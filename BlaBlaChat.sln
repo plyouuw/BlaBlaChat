@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlaBlaChat", "BlaBlaChat.csproj", "{D4355240-BDA5-4007-B4E8-AE7CD4277803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4355240-BDA5-4007-B4E8-AE7CD4277803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4355240-BDA5-4007-B4E8-AE7CD4277803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4355240-BDA5-4007-B4E8-AE7CD4277803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4355240-BDA5-4007-B4E8-AE7CD4277803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E87D3D9A-18B0-49D0-AC4D-F6E154671F95}
+	EndGlobalSection
+EndGlobal
